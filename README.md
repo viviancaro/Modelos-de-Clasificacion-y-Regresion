@@ -1,4 +1,4 @@
-# PROYECTO 5: MODELOS DE CLASIFICACIÓN Y REGRESIÓN
+# MODELOS DE CLASIFICACIÓN Y REGRESIÓN
 El objetivo de este proyecto, es realizar una clasificación de comentarios de acuerdo al sentimiento positivo o negativo expresado en ellos. El análisis se realiza en un conjunto de datos sobre reviews de películas y se trabaja con procesamiento de texto para luego aplicar diferentes técnicas predictivas. 
 En este caso no se utiliza un archivo '.csv', sino con un directorio estructurado.
 
